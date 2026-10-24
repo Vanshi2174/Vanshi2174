@@ -28,7 +28,7 @@ Hi! I'm Vanshika, a Computer Science and Engineering student interested in softw
 
 ## Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,ts,git,github,vscode" alt="Tech stack"/>
 </p>
 
