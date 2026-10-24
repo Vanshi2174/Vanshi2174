@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/Vanshi2174">
-    <img src="https://img.shields.io/badge/GitHub-Vanshi2174-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-VANSHI2174-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/Vanshi2174/vanshika-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-087e8b?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
