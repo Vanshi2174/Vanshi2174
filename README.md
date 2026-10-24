@@ -32,11 +32,15 @@ Hi! I'm Vanshika, a Computer Science and Engineering student interested in softw
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,ts,git,github,vscode" alt="Tech stack"/>
 </p>
 
-## Featured Project
+## Portfolio
 
-### [Vanshika Portfolio](https://github.com/Vanshi2174/vanshika-portfolio)
+<p align="center">
+  <a href="https://vanshika-portfolio-peach.vercel.app">
+    <strong>PORTFOLIO ↗</strong>
+  </a>
+</p>
 
-My personal developer portfolio featuring my projects, skills, achievements, and certifications.
+<p>My personal developer portfolio featuring my projects, skills, achievements, and certifications.</p>
 
 ## Achievements
 
