@@ -4,14 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101b3d,50:164e91,100:087e8b&height=180&section=header&text=VANSHIKA%20PRAJAPATI&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20JAVA%20%7C%20AI&descAlignY=65&descSize=16" width="100%" alt="Vanshika Prajapati developer banner"/>
 </p>
 
+
 <p align="center">
   <a href="https://github.com/Vanshi2174">
     <img src="https://img.shields.io/badge/GITHUB-VANSHI2174-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/vanshika-prajapati-991123331/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 
 ---
 
