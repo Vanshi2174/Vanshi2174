@@ -1,0 +1,48 @@
+# Hey, I'm Vanshika Prajapati
+
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:101b3d,50:164e91,100:087e8b&height=180&section=header&text=VANSHIKA%20PRAJAPATI&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20JAVA%20%7C%20AI&descAlignY=65&descSize=16](https://capsule-render.vercel.app/api?type=rect\&color=0:101b3d,50:164e91,100:087e8b\&height=180\&section=header\&text=VANSHIKA%20PRAJAPATI\&fontSize=38\&fontColor=ffffff\&fontAlignY=42\&desc=SOFTWARE%20DEVELOPMENT%20%7C%20JAVA%20%7C%20AI\&descAlignY=65\&descSize=16)" width="100%" alt="Vanshika Prajapati developer banner"/>
+\</p>
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/Vanshi2174](https://github.com/Vanshi2174)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Vanshi2174-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Vanshi2174-181717?style=for-the-badge\&logo=github)" alt="GitHub"/>
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/Vanshi2174/vanshika-portfolio](https://github.com/Vanshi2174/vanshika-portfolio)">
+&#x20;   \<img src="[https://img.shields.io/badge/Portfolio-Visit-087e8b?style=for-the-badge&logo=vercel](https://img.shields.io/badge/Portfolio-Visit-087e8b?style=for-the-badge\&logo=vercel)" alt="Portfolio"/>
+&#x20; \</a>
+\</p>
+
+---
+
+## whoami
+
+Hi! I'm Vanshika, a Computer Science and Engineering student interested in software development and problem-solving.
+
+- **Focus:** Java, Data Structures & Algorithms
+- **Exploring:** React, AI integration, and cloud technologies
+- **Achievement:** Amazon Scholar
+- **Currently building:** Projects to strengthen my development skills
+
+## Tech Stack
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=java,python,html,css,js,react,ts,git,github,vscode](https://skillicons.dev/icons?i=java,python,html,css,js,react,ts,git,github,vscode)" alt="Tech stack"/>
+\</p>
+
+## Featured Project
+
+### [Vanshika Portfolio](https://github.com/Vanshi2174/vanshika-portfolio)
+
+My personal developer portfolio featuring my projects, skills, achievements, and certifications.
+
+## Achievements
+
+- Amazon Scholar
+- Top 3 in the Smart India Hackathon internal hackathon
+
+---
+
+\<p align="center">
+&#x20; \<i>Learning every day. Building one project at a time.\</i>
+\</p>
